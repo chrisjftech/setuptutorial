@@ -1,0 +1,26 @@
+{
+    "author": "chrisjf.tech",
+    "dependencies": {},
+    "keywords": [],
+    "name": "setup-tutorial",
+    "pebble": {
+        "displayName": "Setup Tutorial",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "6a2139ed-2835-47a4-b6a8-d9221c5412c6",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "0.1.0"
+}
