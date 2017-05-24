@@ -3,6 +3,8 @@
 Window *my_window;
 TextLayer *text_layer;
 
+//Hey tutorial watchers!
+
 void handle_init(void) {
   my_window = window_create();
 
@@ -20,3 +22,5 @@ int main(void) {
   app_event_loop();
   handle_deinit();
 }
+
+//Bye tutorial watchers!
